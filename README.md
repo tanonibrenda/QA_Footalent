@@ -21,15 +21,16 @@
  1. Smoke Test Manual ID: PDDSmk001 
    
 
-2. Elemento principal 2  
-   - 2.a  
-   - 2.b  
+ 2. Pruebas Automáticas Creación Usuario Fan 🎧
+   - 2.a  Creación de Usuario Fan con datos correctos
+   - 2.b  Creación Usuario Fan con datos Incorrectos
 
-3. Elemento principal 3  
-   - 3.a  
-   - 3.b  
-   - 3.c  
-   - 3.d  
+ 3. Pruebas Automáticas Creación Usuario Músico 🎸
+   - 3.a  Creación de Usuario Músico con datos correctos
+   - 3.b  Creación Usuario Músico con datos incorrectos
+
+  4. Prueba de Donación 💸
+  5. Prueba de Formulario de Contacto 📧
     </div>
    
 
