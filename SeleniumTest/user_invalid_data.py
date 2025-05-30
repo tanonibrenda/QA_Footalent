@@ -31,11 +31,11 @@ try:
     # Enviar formulario
     driver.find_element(By.XPATH, "//div[@id='portal-root']/div/div/div[2]/form/button").click()
 
-    # Esperar unos segundos para verificar el resultado (puedes ajustar el tiempo)
+    # Esperar unos segundos para verificar el resultado 
     time.sleep(3)
 
     # Verificar si el registro fue exitoso
-    mensaje_error = driver.find_elements(By.CLASS_NAME, "error-message")  # Ajusta según el mensaje esperado
+    mensaje_error = driver.find_elements(By.CLASS_NAME, "error-message")  
 
     if mensaje_error:
         print("Prueba fallida: Se mostraron errores de validación.🐞")

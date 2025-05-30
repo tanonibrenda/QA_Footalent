@@ -19,6 +19,11 @@
     <h2>Indice de Pruebas</h2>
     <div>
  1. Smoke Test Manual ID: PDDSmk001 
+  <ul>
+            <li><a href="./smoketest/SmokeTest_PDDSmk001.pdf">Smoke Test Manual ID: PDDSmk001</a></li>
+            <li><a href="#Indice"></a></li>
+            <li><a href="#Integrantes">Integrantes</a></li>
+        </ul>
    
  2. Pruebas Automáticas Creación Usuario Fan 🎧
    - 2.a  Creación de Usuario Fan con datos correctos
