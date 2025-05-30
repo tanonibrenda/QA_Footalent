@@ -20,7 +20,6 @@
     <div>
  1. Smoke Test Manual ID: PDDSmk001 
    
-
  2. Pruebas Automáticas Creación Usuario Fan 🎧
    - 2.a  Creación de Usuario Fan con datos correctos
    - 2.b  Creación Usuario Fan con datos Incorrectos
@@ -35,4 +34,7 @@
    
 
     
+</div>
+<div>
+    <h2>Conclusiones</h2>
 </div>
